@@ -1,2 +1,2 @@
 # firstdemo
-first demo on devops git 
+first demo on devops git repo
